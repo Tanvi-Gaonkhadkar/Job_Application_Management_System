@@ -1,6 +1,6 @@
 ## Job Application Management System (DBMS Project)
 
-# Project Overview
+### Project Overview
 
 This project is a Database Management System (DBMS) designed to manage
 job postings, companies, candidates, and applications. It includes the
@@ -11,7 +11,7 @@ The project demonstrates: - Database design - Primary & foreign key
 relationships - Normalized table structure - SQL schema + queries -
 Realistic job application workflow
 
-# Project Structure
+### Project Structure
 
 Job_Application_Management_System/
 │
@@ -20,7 +20,7 @@ Job_Application_Management_System/
 └── queries.sql       # test queries
 
 
-# How to Run the Project
+### How to Run the Project
 
 1.  Import the Database Use PowerShell: “C:FilesServer 8.0.exe” -u root
     -p < schema.sql
@@ -31,7 +31,7 @@ Job_Application_Management_System/
 
 3.  Run Queries SOURCE queries.sql;
 
-# Sample Queries Included
+### Sample Queries Included
 
 -   Get all job postings
 -   View all candidates
@@ -40,7 +40,7 @@ Job_Application_Management_System/
 -   Candidates with more than 2 years experience
 -   Count applications per job
 
-# Technologies Used
+### Technologies Used
 
 -   MySQL
 -   SQL
